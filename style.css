@@ -14,7 +14,7 @@ section {
   animation: animate1 1s linear forwards;
   animation-delay: 4s;
   opacity: 0;
-  color: #cc0000;
+  color: #fff;
 }
 
 section::before {
@@ -39,7 +39,7 @@ h1 {
   font-size: 5em;
   font-family: sans-serif;
   letter-spacing: 0.4em;
-  color: #7c0000;
+  color: #fff;
 }
 h1 span {
   opacity: 0;
